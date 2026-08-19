@@ -1,0 +1,8 @@
+{
+  "dataset": "BoT-IoT Full",
+  "train_samples": 148729,
+  "test_accuracy": 0.97,
+  "zero_day_recall": 0.2005856515373353,
+  "false_alarm_rate": 0.04954010004841052,
+  "certified_epsilon": -0.15949993642415825
+}
